@@ -4,3 +4,8 @@
 Сделана на юнити за пару дней. Нужно развивать свой дачный участок, и при этом взаимодействовать с финансовыми инструментами банка. 
 
 [Веб-билд](https://tainiikrab.github.io/fintech-dacha-webgame/)
+
+[Исходный код игры на SourceCraft](https://sourcecraft.dev/coder-guys/lct-game)
+
+
+
