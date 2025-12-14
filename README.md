@@ -8,4 +8,4 @@
 [Исходный код игры на SourceCraft](https://sourcecraft.dev/coder-guys/lct-game)
 
 
-
+<img width="245" height="226" alt="head" src="https://github.com/user-attachments/assets/c4ee9260-fc7b-456b-a892-ea1f8fe27c3a" />
